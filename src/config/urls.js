@@ -194,5 +194,8 @@ export const urls = {
   compoundTnC:
     "https://shop.ledger.com/pages/ledger-live-terms-of-use?utm_source=ledger_live_desktop&utm_medium=self_referral&utm_content=compoundTnC",
   approvedOperation:
-    "https://support.ledger.com/hc/en-us/articles/360020849134-Track-your-transaction?docs=true",
+    "https://support.ledger.com/hc/en-us/articles/115005307809-Track-your-transaction?utm_source=ledger_live_desktop&utm_medium=self_referral&utm_content=compoundTX",
+  elrond: {
+    website: "https://elrond.com",
+  },
 };
