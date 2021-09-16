@@ -2358,10 +2358,10 @@
     bignumber.js "^9.0.1"
     json-rpc-2.0 "^0.2.16"
 
-"@ledgerhq/live-common@21.4.1-btcjs.2":
-  version "21.4.1-btcjs.2"
-  resolved "https://registry.yarnpkg.com/@ledgerhq/live-common/-/live-common-21.4.1-btcjs.2.tgz#edd403ab2be1d6dc6254226e9130712827385c0a"
-  integrity sha512-CCP0MLybYVx9uLbhvWsStT5sDfCfUwGNvsynD4Yw2bDU9MpRQH50VHzbpMU/erqGoVrXtvcAjW4ejptUieAvLQ==
+"@ledgerhq/live-common@21.4.1-btcjs.4":
+  version "21.4.1-btcjs.4"
+  resolved "https://registry.yarnpkg.com/@ledgerhq/live-common/-/live-common-21.4.1-btcjs.4.tgz#d3ecb452f4a0ba72e9ef34a57f878d6c02f84dd5"
+  integrity sha512-khXn/210JRTLrLSZCHznjaxUtFOMrLGrLCH+T4Gxa2A7k2VodeVzpSZSw5sgR8v+IaPYc86nFRRRfI5ZfUlHTQ==
   dependencies:
     "@crypto-com/chain-jslib" "0.0.19"
     "@ledgerhq/compressjs" "1.3.2"
